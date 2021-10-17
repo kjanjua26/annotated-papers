@@ -1,2 +1,8 @@
 # annotated-papers :books:
-This repository contains all the papers which I read and annotate. The annotated papers and notes are provided for easy understanding.
+This repository contains all the papers which I read and annotate. The annotated papers and notes are provided here in hopes that those annotations would serve as a summary. The topics are all mostly related to AI/ML and specifically to RL, but there might be some deviation(s).
+
+## Reinforcement Learning
+### Generalization in RL
+
+1. Decoupling Representation Learning from Reinforcement Learning (Stooke, Lee, Abbeel, Laskin'21)
+2. Generalization in RL with Selective Noise Injection and Information Bottleneck (Igl, Ciosek, Li, et.al'19)
