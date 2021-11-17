@@ -6,3 +6,9 @@ This repository contains all the papers which I read and annotate. The annotated
 
 1. [Decoupling Representation Learning from Reinforcement Learning](https://github.com/kjanjua26/annotated-papers/blob/main/rl-generalization/decoupling_reps.pdf) (Stooke, Lee, Abbeel, et al.,'21)
 2. [Generalization in RL with Selective Noise Injection and Information Bottleneck](https://github.com/kjanjua26/annotated-papers/blob/main/rl-generalization/selective_noise_injection_gen.pdf) (Igl, Ciosek, Li, et al.,'19)
+
+
+## ML and Brain
+### Language
+
+1. [Finding Syntax in Human Encephalography with Beam Search](https://github.com/kjanjua26/annotated-papers/blob/main/ml-and-brain/language/finding_syntax_in_human_encephalography.pdf) (Hale, Dyer, Kuncoro, et al.,'18)
