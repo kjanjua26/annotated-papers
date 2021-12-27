@@ -8,6 +8,11 @@ This repository contains all the papers which I read and annotate. The annotated
 2. [Generalization in RL with Selective Noise Injection and Information Bottleneck](https://github.com/kjanjua26/annotated-papers/blob/main/rl-generalization/selective_noise_injection_gen.pdf) (Igl, Ciosek, Li, et al.,'19)
 3. [Measuring and Characterizing Generalization in Deep Reinforcement Learning](https://github.com/kjanjua26/annotated-papers/blob/main/rl-generalization/measuring_generalization.pdf) (Witty, Lee, Tosch, et al.,'18)
 
+### Representation Learning in RL
+
+1. [The Utility of Sparse Representations for Control in Reinforcement Learning](https://github.com/kjanjua26/annotated-papers/blob/main/rl-representations/utility_sparse_reps_control.pdf) (Liu, Kumaraswamy, Le, White,'19)
+
+
 
 ## ML and Brain
 ### Language
