@@ -12,6 +12,10 @@ This repository contains all the papers which I read and annotate. The annotated
 
 1. [The Utility of Sparse Representations for Control in Reinforcement Learning](https://github.com/kjanjua26/annotated-papers/blob/main/rl-representations/utility_sparse_reps_control.pdf) (Liu, Kumaraswamy, Le, White,'19)
 
+### RL and Psychology
+
+1. [Multi-timescale Nexting in a Reinforcement Learning Robot](https://github.com/kjanjua26/annotated-papers/blob/main/rl-and-psychology/nexting.pdf) (Modayil, White, Sutton,'14)
+
 
 
 ## ML and Brain
