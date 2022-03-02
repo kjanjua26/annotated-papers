@@ -16,7 +16,8 @@ This repository contains all the papers which I read and annotate. The annotated
 
 1. [Multi-timescale Nexting in a Reinforcement Learning Robot](https://github.com/kjanjua26/annotated-papers/blob/main/rl-and-psychology/nexting.pdf) (Modayil, White, Sutton,'14)
 
-
+### Computational Game Theory
+1. [Nimbers are Inevitable](https://github.com/kjanjua26/annotated-papers/blob/main/computational-game-theory/nimbers-are-inevitable.pdf) (Lemoine, Viennot'10)
 
 ## ML and Brain
 ### Language
