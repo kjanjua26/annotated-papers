@@ -18,8 +18,8 @@ This repository contains all the papers which I read and annotate. The annotated
 
 
 ## Computational Game Theory
-### Impartial Games and Sprague-Grundy Theorem
 1. [Nimbers are Inevitable](https://github.com/kjanjua26/annotated-papers/blob/main/computational-game-theory/nimbers-are-inevitable.pdf) (Lemoine, Viennot'10)
+2. [An Enhanced Solver for Amazons](https://github.com/kjanjua26/annotated-papers/blob/main/computational-game-theory/enhanced-solver-amazons.pdf) (Song, Muller'15)
 
 
 ## ML and Brain
